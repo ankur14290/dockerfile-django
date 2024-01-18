@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "data": [
+    {
+      "domain": "Beauty",
+      "seller_id": 1,
+      "config": {
+        "DISCOUNT_AUTOMATION": {
+          "enabled": true
+        }
+      },
+      "vendors": [
+        {
+          "vendor_id": "HUL"
+        }
+      ]
+    },
+    {
+      "domain": "Fashion",
+      "seller_id": 1,
+      "config": {
+        "DISCOUNT_AUTOMATION": {
+          "enabled": true
+        }
+      },
+      "vendors": [
+        {
+          "vendor_id": "MP2"
+        }
+      ]
+    }
+  ]
+}
